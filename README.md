@@ -37,10 +37,10 @@ This project combines **embedded programming, circuit design, sensor integration
 
 ---
 
-## 🏆 Results
+## Results
 Placed **5th out of 15** teams in the line-tracking and Bluetooth-control competition.
 
 ---
 
-## 📸 Gallery
+## Gallery
 *(Add images here — e.g. photos of your robot or screenshots of your circuit and 3D model)*  
