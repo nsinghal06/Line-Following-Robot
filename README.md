@@ -17,7 +17,7 @@ This project combines **embedded programming, circuit design, sensor integration
 ## Components & Tools
 | Category | Items |
 |-----------|-------|
-| **Hardware** | Arduino Uno, L298N H-Bridge, DC Motors, IR Sensors, Li-ion Battery Pack |
+| **Hardware** | Arduino Uno, H-Bridge, DC Motors, IR Sensors, Li-ion Battery Pack |
 | **Software** | Arduino IDE (C/C++), AutoCAD, Adafruit Bluefruit App |
 | **Skills Used** | Circuit Design, Embedded Systems, 3D Modeling & Printing, Sensor Calibration, Motor Control |
 
@@ -40,7 +40,4 @@ This project combines **embedded programming, circuit design, sensor integration
 ## Results
 Placed **5th out of 15** teams in the line-tracking and Bluetooth-control competition.
 
----
-
-## Gallery
-*(Add images here — e.g. photos of your robot or screenshots of your circuit and 3D model)*  
+---  
