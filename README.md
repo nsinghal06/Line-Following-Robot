@@ -17,7 +17,7 @@ This project combines **embedded programming, circuit design, sensor integration
 |-----------|-------|
 | **Hardware** | Arduino Uno, H-Bridge, DC Motors, IR Sensors, Li-ion Battery Pack |
 | **Software** | Arduino IDE (C/C++), AutoCAD, Adafruit Bluefruit App |
-| **Skills Used** | Circuit Design, Embedded Systems, 3D Modeling & Printing, Sensor Calibration, Motor Control |
+| **Skills Used** | Breadboarding, Embedded Systems, 3D Modeling & Printing, Sensor Calibration, Motor Control |
 
 
 ## How It Works
